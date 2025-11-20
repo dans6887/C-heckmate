@@ -1,0 +1,43 @@
+html{
+	background-image:url("../images/background2.jpg");
+	/* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
+body{
+	color: #000305;
+	font-size: 80%; /* base font size is 14px */
+	font-family: Arial, 'Lucida Sans Unicode';
+	line-height:1.5;
+	text-align:left;
+}
+
+.content{
+	/*background-color:blue;*/
+	padding:5px;
+	
+}
+.sub-content1{
+	text-align:center;
+	/*background-color:red;*/
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	padding:5px;
+}
+.sub-content2{
+	
+	/*background-color:yellow;*/
+	
+}
+.logo{
+	margin-left:auto;
+	margin-right:auto;
+	
+}
